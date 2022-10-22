@@ -1,0 +1,32 @@
+{
+  "food": [
+    {
+      "title": "Mochi Donuts",
+      "image": "https://simplyhomecooked.com/wp-content/uploads/2020/08/Mochi-donuts-pon-de-ring-new-13.jpg",
+      "description": "Gooey center, crispy outside, its like a cripsy mochi ball",
+      "rating": "4.5",
+      "haveTried": true
+    },
+    {
+      "title": "Birria Tacos",
+      "image": "https://img.taste.com.au/U-8Lkv7A/w1200-h630-cfill/taste/2021/05/birria-tacos-171189-2.jpg",
+      "description": "Gooey center, crispy outside, its like a cripsy mochi ball",
+      "rating": "0",
+      "haveTried": false
+    },
+    {
+      "title": "Chicken Ramen",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2020/12/Quick-Chicken-Ramen-square-FS-22-500x500.jpg",
+      "description": "Gooey center, crispy outside, its like a cripsy mochi ball",
+      "rating": "4.5",
+      "haveTried": true
+    },
+    {
+      "title": "Cheese wheel Pasta",
+      "image": "https://offloadmedia.feverup.com/secretbrisbane.co/wp-content/uploads/2022/01/20050956/262799441_1803480896529543_2717522738657145088_n-1024x683.jpg",
+      "description": "Gooey center, crispy outside, its like a cripsy mochi ball",
+      "rating": "0",
+      "haveTried": false
+    }
+  ]
+}

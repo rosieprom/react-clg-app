@@ -1,0 +1,20 @@
+.button {
+  background-color: var(--link-visited-color);
+  color: var(--main-font-color);
+  border: 1px solid var(--link-visited-color);
+  outline: none;
+  width: auto;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.button:hover,
+.button:active {
+  background-color: white;
+  color: var(--link-visited-color);
+  border: 1px solid var(--link-visited-color);
+  width: auto;
+  padding: 10px 20px;
+  border-radius: 5px;
+  outline: none;
+}
