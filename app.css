@@ -1,0 +1,27 @@
+.light-theme {
+  --main-color: #2b3574;
+  --main-bg-color: white;
+  --main-border-color: #2b3574;
+  --main-font-color: #2b3574;
+  --main-secondary-color: #f6eae9;
+  --invalid-color: #b40e0e;
+  --background-color: white;
+
+  --main-font-family: "pdu-regular", arial;
+  --main-font-weight: normal;
+  --main-font-size: 0.75rem;
+}
+
+.dark-theme {
+  --main-color: #17b978;
+  --main-bg-color: #303a52;
+  --main-border-color: #f3558e;
+  --main-font-color: white;
+  --main-secondary-color: #faee1c;
+  --invalid-color: #ff304f;
+  --background-color: #303a52;
+
+  --main-font-family: "pdu-regular", arial;
+  --main-font-weight: normal;
+  --main-font-size: 0.75rem;
+}
