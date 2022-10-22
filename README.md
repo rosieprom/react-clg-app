@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Introduction to React - Final Assignment
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96a3146b-a3b9-4a22-a960-cd2ae2e4311e/deploy-status)](https://app.netlify.com/sites/sweet-kitsune-272ce1/deploys)
+
+View Netlify site [here](https://sweet-kitsune-272ce1.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Code samples for each lesson can be referenced [here](https://codesandbox.io/dashboard/sandboxes/React%20Course?workspace=f5d2e4ba-d940-4d8f-a08c-c831f6715d35).
+
+This course was curated in partnership with [Code Like a Girl](https://www.codelikeagirl.com/)
 
 ## Available Scripts
 
